@@ -168,9 +168,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## 📄 License
 
 © 2026 CowGirls Team
-
----
-
-<div align="center">
-Made with 🤠 for Korean farmers
-</div>
